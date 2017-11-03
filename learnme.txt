@@ -8,8 +8,9 @@ craate a new branch is quick
 create a new branch is quick & simple
 create a new branch is quick and simple
 add merge
-<<<<<<< Updated upstream
 git bug
+stash`
+>>>>>>> Stashed changes
 =======
 stash`
 >>>>>>> Stashed changes
